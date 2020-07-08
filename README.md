@@ -1,2 +1,2 @@
-# kironde
+# Kironde
 My Personal Website
